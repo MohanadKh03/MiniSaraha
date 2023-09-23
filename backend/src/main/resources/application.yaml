@@ -1,0 +1,10 @@
+spring:
+  cassandra:
+    local-datacenter: datacenter1
+    keyspace-name: "minisaraha"
+    schema-action: create_if_not_exists
+logging:
+  level:
+    org.springframework.security: DEBUG
+
+jwt-secret: "mysecretkeyabcde"

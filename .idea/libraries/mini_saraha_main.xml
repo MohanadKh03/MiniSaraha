@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mini-saraha-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mini-saraha-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
